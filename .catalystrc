@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "5907000000013017",
+      "name": "Try",
+      "domain": {
+        "id": "50018689025",
+        "name": "try-60028168154.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60028168154",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

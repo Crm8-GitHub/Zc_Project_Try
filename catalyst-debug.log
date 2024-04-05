@@ -1,0 +1,55 @@
+[debug] [2024-04-05T06:18:43.633Z] : 
+[debug] [2024-04-05T06:18:43.634Z] : ----------------------------------------------------------------------
+[debug] [2024-04-05T06:18:43.635Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\user\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2024-04-05T06:18:43.635Z] : CLI Version:  1.17.4
+[debug] [2024-04-05T06:18:43.635Z] : Platform:     win32
+[debug] [2024-04-05T06:18:43.635Z] : Node Version: v20.10.0
+[debug] [2024-04-05T06:18:43.636Z] : Time:         Fri Apr 05 2024 11:48:43 GMT+0530 (India Standard Time)
+[debug] [2024-04-05T06:18:43.636Z] : ----------------------------------------------------------------------
+[debug] [2024-04-05T06:18:43.636Z] : 
+[debug] [2024-04-05T06:18:44.283Z] : > authorizing via signed-in user option
+[debug] [2024-04-05T06:18:44.284Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.webapp.ALL","ZohoCatalyst.pdfshot.execute"]
+[debug] [2024-04-05T06:18:44.297Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.in/baas/v1/project/5907000000013017 
+
+[debug] [2024-04-05T06:18:44.928Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 05 Apr 2024 06:18:42 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","set-cookie":["3a750b85f1=99131cfabfda186b4fe68a16fb8fedd6; Path=/","ZD_CSRF_TOKEN=5ff7a7c1-8252-4675-aa3e-f5b0ca1a7cf5;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=5ff7a7c1-8252-4675-aa3e-f5b0ca1a7cf5;path=/;SameSite=Strict;Secure;priority=high"],"x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-04-05T06:18:44.936Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.in/baas/v1/project/5907000000013017/environment 
+
+[debug] [2024-04-05T06:18:45.019Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 05 Apr 2024 06:18:42 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","set-cookie":["3a750b85f1=7c58023b2365c117e2ff9b6feb09efa2; Path=/","ZD_CSRF_TOKEN=9468ecf4-f217-4ad4-8596-b5d23e46e210;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=9468ecf4-f217-4ad4-8596-b5d23e46e210;path=/;SameSite=Strict;Secure;priority=high"],"x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-04-05T06:18:45.304Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.in/baas/v1/project/5907000000013017/function 
+Query params: {"type":"basicio,event,cron,applogic,integration,browser_logic"}
+
+[debug] [2024-04-05T06:18:45.315Z] : http port : '3000' is not available. Hence port '3001' will be used instead.
+[debug] [2024-04-05T06:18:45.594Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 05 Apr 2024 06:18:42 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","set-cookie":["3a750b85f1=99131cfabfda186b4fe68a16fb8fedd6; Path=/","ZD_CSRF_TOKEN=bdc02f64-e794-4c51-a767-666d2ef07bb1;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=bdc02f64-e794-4c51-a767-666d2ef07bb1;path=/;SameSite=Strict;Secure;priority=high"],"x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-04-05T06:18:45.597Z] : unknown eol undefined hence skipping check
+[info] [2024-04-05T06:18:46.052Z] : 
+[info] [2024-04-05T06:18:46.053Z] : Executing AppSail [PRESERVE] [AppSail] script in C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\appsail-nodejs
+[debug] [2024-04-05T06:18:46.054Z] : Executing command > npm install
+[info] [2024-04-05T06:18:46.055Z] : > npm install
+[info] [2024-04-05T06:18:48.213Z] : 
+[info] [2024-04-05T06:18:48.214Z] :  >>>>>>>>>>>>> AdvancedIO <<<<<<<<<<<< 
+[info] [2024-04-05T06:18:48.216Z] : i try_function: http://localhost:3000/server/try_function/
+[info] [2024-04-05T06:18:48.216Z] : 
+[info] [2024-04-05T06:18:48.216Z] : 
+[info] [2024-04-05T06:18:48.217Z] :  >>>>>>>>>>>>>> AppSail <<<<<<<<<<<<<< 
+[info] [2024-04-05T06:18:48.217Z] : i AppSail: http://localhost:3001
+[info] [2024-04-05T06:18:48.218Z] : 
+[info] [2024-04-05T06:18:48.218Z] : 
+[info] [2024-04-05T06:18:48.218Z] :  >>>>>>>>>>>>> Web Client <<<<<<<<<<<<
+[info] [2024-04-05T06:18:48.219Z] : i client[sampleApp]: http://localhost:3000/app/
+[info] [2024-04-05T06:18:48.219Z] : 
+[debug] [2024-04-05T06:18:49.054Z] : > refreshing access token <
+[debug] [2024-04-05T06:18:49.056Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.in/oauth/v2/token 
+<request body omitted>
+
+[debug] [2024-04-05T06:18:49.300Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 05 Apr 2024 06:18:46 GMT","content-type":"application/json;charset=UTF-8","content-length":"1913","connection":"keep-alive","set-cookie":["6e73717622=4440853cd702ab2a51402c119608ee85; Path=/","iamcsr=0df1113e-4e53-491d-9ff9-c5de341edec4;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=0df1113e-4e53-491d-9ff9-c5de341edec4;path=/;SameSite=Strict;Secure;priority=high"],"cache-control":"no-store","x-content-type-options":"nosniff","content-security-policy":"script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.zohocdn.com https://*.zoho.com https://*.zoho.eu https://*.zoho.com.cn https://*.zoho.com.au https://*.zoho.jp https://*.zoho.uk https://*.zoho.sa https://*.zohocloud.ca; report-uri https://logsapi.zoho.in/csplog?service=accounts;","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=63072000"}
+
+[info] [2024-04-05T06:20:01.305Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-05T06:21:33.966Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-05T06:21:40.270Z] : Change(s) is detected in index.html of the Web-Client.
