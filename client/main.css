@@ -1,1 +1,8 @@
-/* LET THE STYLING BEGIN */
+button{
+    padding:5px;
+    background:greenyellow;
+    border:2px solid greenyellow;
+    font-weight:600;
+    color:green;
+
+}

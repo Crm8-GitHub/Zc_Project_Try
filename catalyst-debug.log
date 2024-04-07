@@ -53,3 +53,911 @@ Response Headers: {"server":"ZGS","date":"Fri, 05 Apr 2024 06:18:46 GMT","conten
 [info] [2024-04-05T06:20:01.305Z] : Change(s) is detected in index.html of the Web-Client.
 [info] [2024-04-05T06:21:33.966Z] : Change(s) is detected in index.html of the Web-Client.
 [info] [2024-04-05T06:21:40.270Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-05T06:34:07.357Z] : Change(s) is detected in index.html of the Web-Client.
+[error] [2024-04-05T06:34:21.040Z] : × [404 - Resource not found]: /try_function/forminput
+[info] [2024-04-05T06:34:21.041Z] : 
+[debug] [2024-04-05T06:34:21.042Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\try_function\forminput'
+[info] [2024-04-05T06:37:01.203Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T06:37:01.535Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T06:37:01.536Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T06:42:27.893Z] : Change(s) is detected in main.css of the Web-Client.
+[info] [2024-04-05T06:47:42.286Z] : Change(s) is detected in index.html of the Web-Client.
+[error] [2024-04-05T06:47:49.062Z] : × [404 - Resource not found]: /try_function/forminput
+[info] [2024-04-05T06:47:49.063Z] : 
+[debug] [2024-04-05T06:47:49.063Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\try_function\forminput'
+[error] [2024-04-05T06:47:54.098Z] : × [404 - Resource not found]: /try_function/forminput
+[info] [2024-04-05T06:47:54.099Z] : 
+[debug] [2024-04-05T06:47:54.099Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\try_function\forminput'
+[error] [2024-04-05T06:48:02.361Z] : × [404 - Resource not found]: /try_function/add
+[info] [2024-04-05T06:48:02.362Z] : 
+[debug] [2024-04-05T06:48:02.362Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\try_function\add'
+[info] [2024-04-05T06:48:18.961Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-05T06:48:45.963Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T06:48:46.334Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T06:48:46.335Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T06:49:30.207Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-05T06:49:59.645Z] : Change(s) is detected in main.js of the Web-Client.
+[error] [2024-04-05T06:50:10.037Z] : × [404 - Resource not found]: /try_function/add
+[info] [2024-04-05T06:50:10.038Z] : 
+[debug] [2024-04-05T06:50:10.038Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\try_function\add'
+[error] [2024-04-05T06:54:59.501Z] : × [404 - Resource not found]: /add
+[info] [2024-04-05T06:54:59.502Z] : 
+[debug] [2024-04-05T06:54:59.502Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\add'
+[error] [2024-04-05T06:55:40.347Z] : × [404 - Resource not found]: /try_function/add
+[info] [2024-04-05T06:55:40.348Z] : 
+[debug] [2024-04-05T06:55:40.348Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\try_function\add'
+[info] [2024-04-05T07:12:15.664Z] : Change(s) is detected in index.html of the Web-Client.
+[error] [2024-04-05T07:12:16.602Z] : × [404 - Resource not found]: /images/page-load.jpeg
+[info] [2024-04-05T07:12:16.603Z] : 
+[debug] [2024-04-05T07:12:16.603Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\images\page-load.jpeg'
+[info] [2024-04-05T07:12:16.718Z] : Change(s) is detected in index.html of the Web-Client.
+[error] [2024-04-05T07:12:17.203Z] : × [404 - Resource not found]: /images/page-load.jpeg
+[info] [2024-04-05T07:12:17.204Z] : 
+[debug] [2024-04-05T07:12:17.205Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\images\page-load.jpeg'
+[info] [2024-04-05T07:13:17.329Z] : Change(s) is detected in main.css of the Web-Client.
+[error] [2024-04-05T07:13:18.007Z] : × [404 - Resource not found]: /images/page-load.jpeg
+[info] [2024-04-05T07:13:18.008Z] : 
+[debug] [2024-04-05T07:13:18.008Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\images\page-load.jpeg'
+[info] [2024-04-05T07:16:11.658Z] : Change(s) is detected in main.js of the Web-Client.
+[error] [2024-04-05T07:16:12.343Z] : × [404 - Resource not found]: /images/page-load.jpeg
+[info] [2024-04-05T07:16:12.343Z] : 
+[debug] [2024-04-05T07:16:12.344Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\images\page-load.jpeg'
+[info] [2024-04-05T07:16:14.882Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T07:16:15.373Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T07:16:15.374Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T09:27:25.897Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-05T09:28:06.202Z] : Change(s) is detected in main.css of the Web-Client.
+[debug] [2024-04-05T09:28:18.365Z] : > refreshing access token <
+[debug] [2024-04-05T09:28:18.368Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.in/oauth/v2/token 
+<request body omitted>
+
+[debug] [2024-04-05T09:28:18.695Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 05 Apr 2024 09:28:16 GMT","content-type":"application/json;charset=UTF-8","content-length":"1913","connection":"keep-alive","set-cookie":["6e73717622=4440853cd702ab2a51402c119608ee85; Path=/","iamcsr=290b86ea-945d-4ab2-aa4d-cd6ef1e0e11c;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=290b86ea-945d-4ab2-aa4d-cd6ef1e0e11c;path=/;SameSite=Strict;Secure;priority=high"],"cache-control":"no-store","x-content-type-options":"nosniff","content-security-policy":"script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.zohocdn.com https://*.zoho.com https://*.zoho.eu https://*.zoho.com.cn https://*.zoho.com.au https://*.zoho.jp https://*.zoho.uk https://*.zoho.sa https://*.zohocloud.ca; report-uri https://logsapi.zoho.in/csplog?service=accounts;","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=63072000"}
+
+[info] [2024-04-05T09:29:06.279Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-05T09:29:08.672Z] : Change(s) is detected in main.css of the Web-Client.
+[info] [2024-04-05T09:29:29.752Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-05T09:29:48.638Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-05T09:30:10.522Z] : Change(s) is detected in main.css of the Web-Client.
+[info] [2024-04-05T10:11:37.894Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T10:11:38.310Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T10:11:38.311Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T10:11:45.204Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-05T10:12:00.422Z] : Change(s) is detected in index.html of the Web-Client.
+[error] [2024-04-05T10:12:10.352Z] : × Error fetching the resource: Error: EISDIR, read
+[debug] [2024-04-05T10:12:10.354Z] : Error: EISDIR, read
+    at SendStream.ondirectory (C:\Users\user\AppData\Roaming\npm\node_modules\zcatalyst-cli\node_modules\express\lib\response.js:1071:15)
+    at SendStream.emit (node:events:514:28)
+    at SendStream.redirect (C:\Users\user\AppData\Roaming\npm\node_modules\zcatalyst-cli\node_modules\send\index.js:475:10)
+    at onstat (C:\Users\user\AppData\Roaming\npm\node_modules\zcatalyst-cli\node_modules\send\index.js:723:41)
+    at FSReqCallback.oncomplete (node:fs:200:5)
+[info] [2024-04-05T10:12:38.246Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T10:12:38.584Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T10:12:38.585Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T10:12:47.348Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T10:12:47.685Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T10:12:47.685Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[error] [2024-04-05T10:12:59.148Z] : × Error fetching the resource: Error: EISDIR, read
+[debug] [2024-04-05T10:12:59.149Z] : Error: EISDIR, read
+    at SendStream.ondirectory (C:\Users\user\AppData\Roaming\npm\node_modules\zcatalyst-cli\node_modules\express\lib\response.js:1071:15)
+    at SendStream.emit (node:events:514:28)
+    at SendStream.redirect (C:\Users\user\AppData\Roaming\npm\node_modules\zcatalyst-cli\node_modules\send\index.js:475:10)
+    at onstat (C:\Users\user\AppData\Roaming\npm\node_modules\zcatalyst-cli\node_modules\send\index.js:723:41)
+    at FSReqCallback.oncomplete (node:fs:200:5)
+[info] [2024-04-05T10:13:41.741Z] : Change(s) is detected in main.js of the Web-Client.
+[error] [2024-04-05T10:13:51.490Z] : × Error fetching the resource: Error: EISDIR, read
+[debug] [2024-04-05T10:13:51.491Z] : Error: EISDIR, read
+    at SendStream.ondirectory (C:\Users\user\AppData\Roaming\npm\node_modules\zcatalyst-cli\node_modules\express\lib\response.js:1071:15)
+    at SendStream.emit (node:events:514:28)
+    at SendStream.redirect (C:\Users\user\AppData\Roaming\npm\node_modules\zcatalyst-cli\node_modules\send\index.js:475:10)
+    at onstat (C:\Users\user\AppData\Roaming\npm\node_modules\zcatalyst-cli\node_modules\send\index.js:723:41)
+    at FSReqCallback.oncomplete (node:fs:200:5)
+[info] [2024-04-05T10:21:08.361Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-05T10:21:21.220Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-05T10:21:41.261Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-05T10:22:03.874Z] : Change(s) is detected in main.js of the Web-Client.
+[error] [2024-04-05T10:22:12.234Z] : × [404 - Resource not found]: /server/try_function/firsttable
+[info] [2024-04-05T10:22:12.234Z] : 
+[debug] [2024-04-05T10:22:12.235Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\firsttable'
+[info] [2024-04-05T10:23:41.353Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T10:23:41.684Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T10:23:41.685Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[error] [2024-04-05T10:23:51.837Z] : × [404 - Resource not found]: /server/try_function/firsttable
+[info] [2024-04-05T10:23:51.838Z] : 
+[debug] [2024-04-05T10:23:51.839Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\firsttable'
+[info] [2024-04-05T10:24:47.703Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T10:24:48.101Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T10:24:48.102Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[error] [2024-04-05T10:24:57.268Z] : × [404 - Resource not found]: /server/try_function/firsttable
+[info] [2024-04-05T10:24:57.268Z] : 
+[debug] [2024-04-05T10:24:57.268Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\firsttable'
+[info] [2024-04-05T10:26:03.877Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T10:26:04.231Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T10:26:04.232Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T10:26:18.234Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T10:26:18.675Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T10:26:18.675Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[error] [2024-04-05T10:26:26.968Z] : × [404 - Resource not found]: /server/try_function/firsttable
+[info] [2024-04-05T10:26:26.968Z] : 
+[debug] [2024-04-05T10:26:26.969Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\firsttable'
+[info] [2024-04-05T10:27:38.695Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T10:27:39.021Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T10:27:39.022Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[error] [2024-04-05T10:27:48.300Z] : × [404 - Resource not found]: /server/try_function/firsttable
+[info] [2024-04-05T10:27:48.301Z] : 
+[debug] [2024-04-05T10:27:48.301Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\firsttable'
+[info] [2024-04-05T10:27:58.727Z] : Change(s) is detected in main.js of the Web-Client.
+[error] [2024-04-05T10:28:05.798Z] : × [404 - Resource not found]: /server/try_function/firsttable
+[info] [2024-04-05T10:28:05.798Z] : 
+[debug] [2024-04-05T10:28:05.799Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\firsttable'
+[info] [2024-04-05T10:28:21.363Z] : Change(s) is detected in main.js of the Web-Client.
+[debug] [2024-04-05T10:28:25.917Z] : > refreshing access token <
+[debug] [2024-04-05T10:28:25.919Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.in/oauth/v2/token 
+<request body omitted>
+
+[debug] [2024-04-05T10:28:26.227Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 05 Apr 2024 10:28:23 GMT","content-type":"application/json;charset=UTF-8","content-length":"1913","connection":"keep-alive","set-cookie":["6e73717622=3bcf233c3836eb7934b6f3edc257f951; Path=/","iamcsr=4feaaa4e-700b-4454-bbbe-303d3a052eb7;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=4feaaa4e-700b-4454-bbbe-303d3a052eb7;path=/;SameSite=Strict;Secure;priority=high"],"cache-control":"no-store","x-content-type-options":"nosniff","content-security-policy":"script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.zohocdn.com https://*.zoho.com https://*.zoho.eu https://*.zoho.com.cn https://*.zoho.com.au https://*.zoho.jp https://*.zoho.uk https://*.zoho.sa https://*.zohocloud.ca; report-uri https://logsapi.zoho.in/csplog?service=accounts;","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=63072000"}
+
+[error] [2024-04-05T10:28:29.367Z] : × [404 - Resource not found]: /server/try_function/firsttable
+[info] [2024-04-05T10:28:29.367Z] : 
+[debug] [2024-04-05T10:28:29.368Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\firsttable'
+[info] [2024-04-05T10:28:43.248Z] : Change(s) is detected in main.js of the Web-Client.
+[error] [2024-04-05T10:28:49.658Z] : × [404 - Resource not found]: /server/try_function/firsttable
+[info] [2024-04-05T10:28:49.659Z] : 
+[debug] [2024-04-05T10:28:49.659Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\firsttable'
+[info] [2024-04-05T10:29:07.438Z] : Change(s) is detected in main.js of the Web-Client.
+[error] [2024-04-05T10:29:13.053Z] : × [404 - Resource not found]: /server/try_function/firsttable
+[info] [2024-04-05T10:29:13.054Z] : 
+[debug] [2024-04-05T10:29:13.055Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\firsttable'
+[info] [2024-04-05T10:30:44.088Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-05T10:33:04.813Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-05T10:33:31.028Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T10:33:31.369Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T10:33:31.369Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[error] [2024-04-05T10:33:41.169Z] : × [404 - Resource not found]: /server/try_function/firsttable
+[info] [2024-04-05T10:33:41.169Z] : 
+[debug] [2024-04-05T10:33:41.169Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\firsttable'
+[info] [2024-04-05T10:34:40.536Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-05T10:35:48.376Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T10:35:48.750Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T10:35:48.751Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T10:36:41.881Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-05T10:38:19.831Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-05T10:38:43.469Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T10:38:43.844Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T10:38:43.844Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T10:38:46.341Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-05T10:39:44.502Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-05T10:47:06.230Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T10:47:06.697Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T10:47:06.697Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T10:47:31.542Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-05T10:48:27.615Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T10:48:27.946Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T10:48:27.947Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T10:48:58.609Z] : Change(s) is detected in index.html of the Web-Client.
+[error] [2024-04-05T10:48:59.350Z] : × [404 - Resource not found]: /index.js
+[info] [2024-04-05T10:48:59.351Z] : 
+[debug] [2024-04-05T10:48:59.352Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\index.js'
+[error] [2024-04-05T10:49:03.557Z] : × [404 - Resource not found]: /index.js
+[info] [2024-04-05T10:49:03.558Z] : 
+[debug] [2024-04-05T10:49:03.559Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\index.js'
+[info] [2024-04-05T10:49:11.765Z] : Change(s) is detected in index.html of the Web-Client.
+[error] [2024-04-05T10:49:12.442Z] : × [404 - Resource not found]: /index.js
+[info] [2024-04-05T10:49:12.443Z] : 
+[debug] [2024-04-05T10:49:12.443Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\index.js'
+[info] [2024-04-05T10:49:50.944Z] : Change(s) is detected in index.html of the Web-Client.
+[error] [2024-04-05T10:49:51.640Z] : × [404 - Resource not found]: /functions/try_function/index.js
+[info] [2024-04-05T10:49:51.641Z] : 
+[debug] [2024-04-05T10:49:51.641Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\functions\try_function\index.js'
+[error] [2024-04-05T10:49:56.597Z] : × [404 - Resource not found]: /functions/try_function/index.js
+[info] [2024-04-05T10:49:56.598Z] : 
+[debug] [2024-04-05T10:49:56.598Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\functions\try_function\index.js'
+[info] [2024-04-05T10:50:05.697Z] : Change(s) is detected in index.html of the Web-Client.
+[error] [2024-04-05T10:50:06.394Z] : × [404 - Resource not found]: /functions/try_function/index.js
+[info] [2024-04-05T10:50:06.395Z] : 
+[debug] [2024-04-05T10:50:06.396Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\functions\try_function\index.js'
+[error] [2024-04-05T10:50:10.189Z] : × [404 - Resource not found]: /functions/try_function/index.js
+[info] [2024-04-05T10:50:10.189Z] : 
+[debug] [2024-04-05T10:50:10.190Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\functions\try_function\index.js'
+[info] [2024-04-05T10:50:22.676Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-05T10:51:12.204Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-05T10:51:40.126Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-05T10:52:00.214Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-05T10:53:01.569Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T10:53:01.972Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T10:53:01.972Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T10:53:08.879Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T10:53:09.317Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T10:53:09.318Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T10:53:20.479Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T10:53:20.925Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T10:53:20.926Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T10:56:26.331Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T10:56:26.745Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T10:56:26.745Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T10:57:09.284Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T10:57:09.608Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T10:57:09.608Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T10:57:27.224Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-05T10:57:38.330Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-05T10:58:03.711Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-05T10:58:57.538Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T10:58:57.874Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T10:58:57.875Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T11:00:34.878Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T11:00:35.207Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T11:00:35.208Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T11:01:01.048Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T11:01:01.384Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T11:01:01.385Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T11:02:00.701Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T11:02:01.017Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T11:02:01.017Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T11:05:47.733Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T11:05:48.104Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T11:05:48.105Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T11:09:22.034Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T11:09:22.447Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T11:09:22.447Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T11:11:44.705Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-05T11:12:40.046Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-05T11:13:33.595Z] : Change(s) is detected in main.css of the Web-Client.
+[info] [2024-04-05T11:22:29.386Z] : Change(s) is detected in main.css of the Web-Client.
+[info] [2024-04-05T11:23:03.827Z] : Change(s) is detected in main.css of the Web-Client.
+[info] [2024-04-05T11:27:11.082Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-05T11:28:21.467Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T11:28:21.779Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T11:28:21.780Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T11:28:25.720Z] : Change(s) is detected in main.js of the Web-Client.
+[debug] [2024-04-05T11:28:26.061Z] : > refreshing access token <
+[debug] [2024-04-05T11:28:26.064Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.in/oauth/v2/token 
+<request body omitted>
+
+[debug] [2024-04-05T11:28:26.380Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 05 Apr 2024 11:28:23 GMT","content-type":"application/json;charset=UTF-8","content-length":"1913","connection":"keep-alive","set-cookie":["6e73717622=4440853cd702ab2a51402c119608ee85; Path=/","iamcsr=1950b30a-f1bc-44a5-8c35-7b1392dab7ab;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=1950b30a-f1bc-44a5-8c35-7b1392dab7ab;path=/;SameSite=Strict;Secure;priority=high"],"cache-control":"no-store","x-content-type-options":"nosniff","content-security-policy":"script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.zohocdn.com https://*.zoho.com https://*.zoho.eu https://*.zoho.com.cn https://*.zoho.com.au https://*.zoho.jp https://*.zoho.uk https://*.zoho.sa https://*.zohocloud.ca; report-uri https://logsapi.zoho.in/csplog?service=accounts;","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=63072000"}
+
+[info] [2024-04-05T11:28:38.233Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T11:28:38.663Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T11:28:38.663Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T11:30:20.607Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T11:30:20.972Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T11:30:20.973Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T11:30:36.955Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T11:30:37.251Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T11:30:37.251Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[error] [2024-04-05T11:30:52.874Z] : × [404 - Resource not found]: /server/try_function/cat
+[info] [2024-04-05T11:30:52.875Z] : 
+[debug] [2024-04-05T11:30:52.875Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\cat'
+[info] [2024-04-05T11:31:05.339Z] : Change(s) is detected in index.html of the Web-Client.
+[error] [2024-04-05T11:31:10.375Z] : × [404 - Resource not found]: /server/try_function/cat
+[info] [2024-04-05T11:31:10.375Z] : 
+[debug] [2024-04-05T11:31:10.376Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\cat'
+[info] [2024-04-05T11:33:18.603Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T11:33:19.056Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T11:33:19.056Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[error] [2024-04-05T11:33:23.043Z] : × [404 - Resource not found]: /server/try_function/cat
+[info] [2024-04-05T11:33:23.044Z] : 
+[debug] [2024-04-05T11:33:23.044Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\cat'
+[error] [2024-04-05T11:33:25.193Z] : × [404 - Resource not found]: /server/try_function/cat
+[info] [2024-04-05T11:33:25.194Z] : 
+[debug] [2024-04-05T11:33:25.195Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\cat'
+[info] [2024-04-05T11:34:09.791Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T11:34:10.299Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T11:34:10.299Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[error] [2024-04-05T11:34:16.049Z] : × [404 - Resource not found]: /server/try_function/cat
+[info] [2024-04-05T11:34:16.050Z] : 
+[debug] [2024-04-05T11:34:16.051Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\cat'
+[info] [2024-04-05T11:35:14.694Z] : Change(s) is detected in main.js of the Web-Client.
+[error] [2024-04-05T11:35:20.821Z] : × [404 - Resource not found]: /server/try_function/cat
+[info] [2024-04-05T11:35:20.821Z] : 
+[debug] [2024-04-05T11:35:20.822Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\cat'
+[info] [2024-04-05T11:37:23.746Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T11:37:24.107Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T11:37:24.108Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-05T11:37:39.937Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-05T11:37:40.339Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-05T11:37:40.339Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[error] [2024-04-05T11:37:45.438Z] : × [404 - Resource not found]: /server/try_function/cat
+[info] [2024-04-05T11:37:45.439Z] : 
+[debug] [2024-04-05T11:37:45.440Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\cat'
+[error] [2024-04-05T11:37:46.060Z] : × [404 - Resource not found]: /server/try_function/cat
+[info] [2024-04-05T11:37:46.061Z] : 
+[debug] [2024-04-05T11:37:46.061Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\cat'
+[error] [2024-04-05T11:37:46.534Z] : × [404 - Resource not found]: /server/try_function/cat
+[info] [2024-04-05T11:37:46.535Z] : 
+[debug] [2024-04-05T11:37:46.535Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\cat'
+[error] [2024-04-05T11:37:46.797Z] : × [404 - Resource not found]: /server/try_function/cat
+[info] [2024-04-05T11:37:46.798Z] : 
+[debug] [2024-04-05T11:37:46.798Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\cat'
+[error] [2024-04-05T11:37:46.847Z] : × [404 - Resource not found]: /server/try_function/cat
+[info] [2024-04-05T11:37:46.847Z] : 
+[debug] [2024-04-05T11:37:46.848Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\cat'
+[error] [2024-04-05T11:37:49.199Z] : × [404 - Resource not found]: /server/try_function/cat
+[info] [2024-04-05T11:37:49.199Z] : 
+[debug] [2024-04-05T11:37:49.200Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\cat'
+[debug] [2024-04-06T07:12:48.824Z] : 
+[debug] [2024-04-06T07:12:48.828Z] : ----------------------------------------------------------------------
+[debug] [2024-04-06T07:12:48.829Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\user\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2024-04-06T07:12:48.829Z] : CLI Version:  1.17.4
+[debug] [2024-04-06T07:12:48.830Z] : Platform:     win32
+[debug] [2024-04-06T07:12:48.831Z] : Node Version: v20.10.0
+[debug] [2024-04-06T07:12:48.832Z] : Time:         Sat Apr 06 2024 12:42:48 GMT+0530 (India Standard Time)
+[debug] [2024-04-06T07:12:48.832Z] : ----------------------------------------------------------------------
+[debug] [2024-04-06T07:12:48.833Z] : 
+[debug] [2024-04-06T07:12:51.097Z] : > authorizing via signed-in user option
+[debug] [2024-04-06T07:12:51.098Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.webapp.ALL","ZohoCatalyst.pdfshot.execute"]
+[debug] [2024-04-06T07:12:51.130Z] : > refreshing access token <
+[debug] [2024-04-06T07:12:51.133Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.in/oauth/v2/token 
+<request body omitted>
+
+[debug] [2024-04-06T07:12:52.006Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Sat, 06 Apr 2024 07:12:51 GMT","content-type":"application/json;charset=UTF-8","content-length":"1913","connection":"keep-alive","set-cookie":["6e73717622=4440853cd702ab2a51402c119608ee85; Path=/","iamcsr=371b655c-eb51-4b4d-86ab-c0c725109fcf;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=371b655c-eb51-4b4d-86ab-c0c725109fcf;path=/;SameSite=Strict;Secure;priority=high"],"cache-control":"no-store","x-content-type-options":"nosniff","content-security-policy":"script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.zohocdn.com https://*.zoho.com https://*.zoho.eu https://*.zoho.com.cn https://*.zoho.com.au https://*.zoho.jp https://*.zoho.uk https://*.zoho.sa https://*.zohocloud.ca; report-uri https://logsapi.zoho.in/csplog?service=accounts;","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-04-06T07:12:52.051Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.in/baas/v1/project/5907000000013017 
+
+[debug] [2024-04-06T07:12:53.394Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Sat, 06 Apr 2024 07:12:53 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","set-cookie":["3a750b85f1=99131cfabfda186b4fe68a16fb8fedd6; Path=/","ZD_CSRF_TOKEN=291ea890-8b5a-4495-a8ce-021a308ff3a1;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=291ea890-8b5a-4495-a8ce-021a308ff3a1;path=/;SameSite=Strict;Secure;priority=high"],"x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-04-06T07:12:53.400Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.in/baas/v1/project/5907000000013017/environment 
+
+[debug] [2024-04-06T07:12:53.918Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Sat, 06 Apr 2024 07:12:53 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","set-cookie":["3a750b85f1=7c58023b2365c117e2ff9b6feb09efa2; Path=/","ZD_CSRF_TOKEN=cbd982a8-31d5-4822-acdb-14668583ed5f;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=cbd982a8-31d5-4822-acdb-14668583ed5f;path=/;SameSite=Strict;Secure;priority=high"],"x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-04-06T07:12:54.643Z] : Build folder already exists, starting cleanup
+[debug] [2024-04-06T07:12:54.686Z] : http port : '3000' is not available. Hence port '3001' will be used instead.
+[debug] [2024-04-06T07:12:54.701Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.in/baas/v1/project/5907000000013017/function 
+Query params: {"type":"basicio,event,cron,applogic,integration,browser_logic"}
+
+[debug] [2024-04-06T07:12:54.716Z] : http port : '3000' is not available. Hence port '3002' will be used instead.
+[debug] [2024-04-06T07:12:55.354Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Sat, 06 Apr 2024 07:12:55 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","set-cookie":["3a750b85f1=99131cfabfda186b4fe68a16fb8fedd6; Path=/","ZD_CSRF_TOKEN=93617070-35d8-459d-8e0a-70ef5aaf8de6;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=93617070-35d8-459d-8e0a-70ef5aaf8de6;path=/;SameSite=Strict;Secure;priority=high"],"x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-04-06T07:12:55.363Z] : unknown eol undefined hence skipping check
+[info] [2024-04-06T07:12:56.082Z] : 
+[info] [2024-04-06T07:12:56.083Z] : Executing AppSail [PRESERVE] [AppSail] script in C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\appsail-nodejs
+[debug] [2024-04-06T07:12:56.083Z] : Executing command > npm install
+[info] [2024-04-06T07:12:56.084Z] : > npm install
+[info] [2024-04-06T07:12:58.754Z] : 
+[info] [2024-04-06T07:12:58.754Z] :  >>>>>>>>>>>>> AdvancedIO <<<<<<<<<<<< 
+[info] [2024-04-06T07:12:58.756Z] : i try_function: http://localhost:3001/server/try_function/
+[info] [2024-04-06T07:12:58.756Z] : 
+[info] [2024-04-06T07:12:58.756Z] : 
+[info] [2024-04-06T07:12:58.757Z] :  >>>>>>>>>>>>>> AppSail <<<<<<<<<<<<<< 
+[info] [2024-04-06T07:12:58.757Z] : i AppSail: http://localhost:3002
+[info] [2024-04-06T07:12:58.758Z] : 
+[info] [2024-04-06T07:12:58.758Z] : 
+[info] [2024-04-06T07:12:58.758Z] :  >>>>>>>>>>>>> Web Client <<<<<<<<<<<<
+[info] [2024-04-06T07:12:58.758Z] : i client[sampleApp]: http://localhost:3001/app/
+[info] [2024-04-06T07:12:58.759Z] : 
+[info] [2024-04-06T07:14:40.857Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T07:14:41.273Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T07:14:41.274Z] : i AdvancedIO[try_function]: http://localhost:3001/server/try_function/
+[info] [2024-04-06T07:15:37.088Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T07:15:37.507Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T07:15:37.507Z] : i AdvancedIO[try_function]: http://localhost:3001/server/try_function/
+[info] [2024-04-06T07:16:27.725Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T07:16:28.046Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T07:16:28.047Z] : i AdvancedIO[try_function]: http://localhost:3001/server/try_function/
+[info] [2024-04-06T07:16:39.714Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T07:16:40.107Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T07:16:40.108Z] : i AdvancedIO[try_function]: http://localhost:3001/server/try_function/
+[info] [2024-04-06T07:17:29.463Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T07:17:29.874Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T07:17:29.874Z] : i AdvancedIO[try_function]: http://localhost:3001/server/try_function/
+[info] [2024-04-06T07:17:53.253Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T07:17:53.623Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T07:17:53.624Z] : i AdvancedIO[try_function]: http://localhost:3001/server/try_function/
+[error] [2024-04-06T07:18:40.556Z] : × [404 - Resource not found]: /server/try_function/cat
+[info] [2024-04-06T07:18:40.557Z] : 
+[debug] [2024-04-06T07:18:40.557Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\cat'
+[info] [2024-04-06T07:20:21.873Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T07:20:22.188Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T07:20:22.188Z] : i AdvancedIO[try_function]: http://localhost:3001/server/try_function/
+[debug] [2024-04-06T10:38:13.029Z] : 
+[debug] [2024-04-06T10:38:13.031Z] : ----------------------------------------------------------------------
+[debug] [2024-04-06T10:38:13.031Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\user\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2024-04-06T10:38:13.031Z] : CLI Version:  1.17.4
+[debug] [2024-04-06T10:38:13.031Z] : Platform:     win32
+[debug] [2024-04-06T10:38:13.032Z] : Node Version: v20.10.0
+[debug] [2024-04-06T10:38:13.032Z] : Time:         Sat Apr 06 2024 16:08:13 GMT+0530 (India Standard Time)
+[debug] [2024-04-06T10:38:13.032Z] : ----------------------------------------------------------------------
+[debug] [2024-04-06T10:38:13.032Z] : 
+[debug] [2024-04-06T10:38:13.607Z] : > authorizing via signed-in user option
+[debug] [2024-04-06T10:38:13.607Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.webapp.ALL","ZohoCatalyst.pdfshot.execute"]
+[debug] [2024-04-06T10:38:13.617Z] : > refreshing access token <
+[debug] [2024-04-06T10:38:13.618Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.in/oauth/v2/token 
+<request body omitted>
+
+[debug] [2024-04-06T10:38:14.104Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Sat, 06 Apr 2024 10:38:14 GMT","content-type":"application/json;charset=UTF-8","content-length":"1913","connection":"keep-alive","set-cookie":["6e73717622=4440853cd702ab2a51402c119608ee85; Path=/","iamcsr=9d9760d8-99e5-4f64-9e08-de367722b8ad;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=9d9760d8-99e5-4f64-9e08-de367722b8ad;path=/;SameSite=Strict;Secure;priority=high"],"cache-control":"no-store","x-content-type-options":"nosniff","content-security-policy":"script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.zohocdn.com https://*.zoho.com https://*.zoho.eu https://*.zoho.com.cn https://*.zoho.com.au https://*.zoho.jp https://*.zoho.uk https://*.zoho.sa https://*.zohocloud.ca; report-uri https://logsapi.zoho.in/csplog?service=accounts;","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-04-06T10:38:14.135Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.in/baas/v1/project/5907000000013017 
+
+[debug] [2024-04-06T10:38:14.696Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Sat, 06 Apr 2024 10:38:14 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","set-cookie":["3a750b85f1=99131cfabfda186b4fe68a16fb8fedd6; Path=/","ZD_CSRF_TOKEN=3b0d2f32-ca47-4c95-b371-66003b9f5b6b;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=3b0d2f32-ca47-4c95-b371-66003b9f5b6b;path=/;SameSite=Strict;Secure;priority=high"],"x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-04-06T10:38:14.701Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.in/baas/v1/project/5907000000013017/environment 
+
+[debug] [2024-04-06T10:38:14.816Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Sat, 06 Apr 2024 10:38:14 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","set-cookie":["3a750b85f1=7c58023b2365c117e2ff9b6feb09efa2; Path=/","ZD_CSRF_TOKEN=99feb92f-6240-4b9c-852c-fa3a04a6e986;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=99feb92f-6240-4b9c-852c-fa3a04a6e986;path=/;SameSite=Strict;Secure;priority=high"],"x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-04-06T10:38:14.996Z] : Build folder already exists, starting cleanup
+[debug] [2024-04-06T10:38:15.032Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.in/baas/v1/project/5907000000013017/function 
+Query params: {"type":"basicio,event,cron,applogic,integration,browser_logic"}
+
+[debug] [2024-04-06T10:38:15.044Z] : http port : '3000' is not available. Hence port '3001' will be used instead.
+[debug] [2024-04-06T10:38:15.185Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Sat, 06 Apr 2024 10:38:15 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","set-cookie":["3a750b85f1=99131cfabfda186b4fe68a16fb8fedd6; Path=/","ZD_CSRF_TOKEN=62b05962-c436-48e7-ba2a-fdf8d8b511de;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=62b05962-c436-48e7-ba2a-fdf8d8b511de;path=/;SameSite=Strict;Secure;priority=high"],"x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-04-06T10:38:15.191Z] : unknown eol undefined hence skipping check
+[info] [2024-04-06T10:38:15.548Z] : 
+[info] [2024-04-06T10:38:15.549Z] : Executing AppSail [PRESERVE] [AppSail] script in C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\appsail-nodejs
+[debug] [2024-04-06T10:38:15.549Z] : Executing command > npm install
+[info] [2024-04-06T10:38:15.549Z] : > npm install
+[info] [2024-04-06T10:38:17.701Z] : 
+[info] [2024-04-06T10:38:17.701Z] :  >>>>>>>>>>>>> AdvancedIO <<<<<<<<<<<< 
+[info] [2024-04-06T10:38:17.702Z] : i try_function: http://localhost:3000/server/try_function/
+[info] [2024-04-06T10:38:17.702Z] : 
+[info] [2024-04-06T10:38:17.703Z] : 
+[info] [2024-04-06T10:38:17.703Z] :  >>>>>>>>>>>>>> AppSail <<<<<<<<<<<<<< 
+[info] [2024-04-06T10:38:17.704Z] : i AppSail: http://localhost:3001
+[info] [2024-04-06T10:38:17.704Z] : 
+[info] [2024-04-06T10:38:17.704Z] : 
+[info] [2024-04-06T10:38:17.704Z] :  >>>>>>>>>>>>> Web Client <<<<<<<<<<<<
+[info] [2024-04-06T10:38:17.705Z] : i client[sampleApp]: http://localhost:3000/app/
+[info] [2024-04-06T10:38:17.705Z] : 
+[info] [2024-04-06T10:38:37.645Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T10:38:37.926Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T10:38:37.927Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T10:45:14.265Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T10:45:21.825Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T10:45:22.111Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T10:45:22.111Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T10:46:27.643Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T10:47:34.372Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T10:47:34.653Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T10:47:34.654Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T10:49:23.142Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T10:49:23.420Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T10:49:23.421Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T10:50:13.729Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T10:50:13.996Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T10:50:13.997Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T10:51:10.389Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T10:51:40.359Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T10:51:55.697Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-06T10:54:29.032Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T10:54:49.007Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T10:54:53.563Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T10:54:53.841Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T10:54:53.842Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T10:55:07.828Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T10:55:22.645Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T10:55:40.301Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T10:55:40.573Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T10:55:40.574Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T10:56:27.802Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T10:58:18.698Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T10:58:32.917Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T10:58:33.193Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T10:58:33.193Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T10:58:35.913Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:08:12.408Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:09:16.763Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:09:38.279Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:09:47.390Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:12:03.624Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:12:04.035Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:12:04.035Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:12:37.126Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:13:08.789Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:13:09.256Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:13:09.257Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:14:08.827Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:14:09.145Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:14:09.145Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:15:53.881Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:15:54.193Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:15:54.194Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:16:02.711Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:16:03.365Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:16:05.677Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:17:04.050Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:17:04.480Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:17:04.480Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:18:53.936Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:18:54.233Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:18:54.234Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:19:27.151Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:19:27.462Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:19:27.462Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:19:43.728Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:19:44.196Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:19:44.196Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:19:45.209Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:19:45.685Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:19:45.686Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:19:56.366Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:19:56.826Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:19:56.826Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:30:19.060Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:30:19.612Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:30:19.613Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:30:23.890Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:30:29.198Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:32:32.332Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:32:32.787Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:32:32.788Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:32:41.610Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:32:41.896Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:32:41.897Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:34:49.513Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:34:49.893Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:34:49.894Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:35:05.645Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:35:25.699Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:36:00.224Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:43:23.750Z] : Change(s) is detected in main.js of the Web-Client.
+[debug] [2024-04-06T11:43:24.096Z] : > refreshing access token <
+[debug] [2024-04-06T11:43:24.100Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.in/oauth/v2/token 
+<request body omitted>
+
+[debug] [2024-04-06T11:43:24.496Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Sat, 06 Apr 2024 11:43:24 GMT","content-type":"application/json;charset=UTF-8","content-length":"1913","connection":"keep-alive","set-cookie":["6e73717622=94da0c17b67b4320ada519c299270f95; Path=/","iamcsr=5346e2ac-3865-4678-9b85-34ba2ed70864;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=5346e2ac-3865-4678-9b85-34ba2ed70864;path=/;SameSite=Strict;Secure;priority=high"],"cache-control":"no-store","x-content-type-options":"nosniff","content-security-policy":"script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.zohocdn.com https://*.zoho.com https://*.zoho.eu https://*.zoho.com.cn https://*.zoho.com.au https://*.zoho.jp https://*.zoho.uk https://*.zoho.sa https://*.zohocloud.ca; report-uri https://logsapi.zoho.in/csplog?service=accounts;","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=63072000"}
+
+[info] [2024-04-06T11:43:37.805Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:46:10.606Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:46:13.162Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:46:13.591Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:46:13.592Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:46:31.658Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:47:13.712Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:47:14.107Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:47:14.107Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:49:22.894Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:49:23.216Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:49:23.217Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:49:31.092Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:49:47.922Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:49:48.234Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:49:48.234Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:50:04.059Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:50:23.508Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:50:23.841Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:50:23.842Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:50:31.371Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:51:15.655Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:51:16.042Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:51:16.043Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:51:20.880Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:52:13.955Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:52:14.413Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:52:14.414Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:52:49.653Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:52:50.021Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:52:50.021Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:54:51.490Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:54:51.858Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:54:51.859Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:54:59.943Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:55:00.352Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:55:00.353Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:58:08.007Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:58:08.324Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:58:08.324Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:58:13.421Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:58:13.787Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:58:13.787Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T11:58:21.961Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T11:58:45.655Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T11:58:45.972Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T11:58:45.972Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T12:00:22.594Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T12:00:22.924Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T12:00:22.925Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T12:01:35.355Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T12:01:35.714Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T12:01:35.715Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T12:01:42.876Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T12:02:30.958Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T12:02:31.308Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T12:02:31.309Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T12:02:41.171Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T12:03:59.683Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T12:04:00.024Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T12:04:00.025Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T12:04:27.734Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T12:04:32.324Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T12:04:32.722Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T12:04:32.722Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T12:04:52.578Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T12:04:53.014Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T12:04:53.014Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T12:05:03.279Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T12:05:15.432Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T12:05:15.769Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T12:05:15.770Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T12:05:42.979Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T12:05:43.261Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T12:05:43.261Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T12:05:52.744Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T12:06:06.488Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T12:06:06.909Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T12:06:06.909Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T12:08:26.350Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T12:08:26.773Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T12:08:26.774Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T12:11:52.001Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-06T12:11:54.367Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T12:11:54.803Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T12:11:54.803Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T12:12:24.406Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T12:12:24.716Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T12:12:24.716Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T12:12:38.785Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T12:12:39.282Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T12:12:39.282Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-06T12:12:48.944Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-06T12:12:49.397Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-06T12:12:49.398Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[debug] [2024-04-07T00:55:45.317Z] : 
+[debug] [2024-04-07T00:55:45.321Z] : ----------------------------------------------------------------------
+[debug] [2024-04-07T00:55:45.322Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\user\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2024-04-07T00:55:45.322Z] : CLI Version:  1.17.4
+[debug] [2024-04-07T00:55:45.323Z] : Platform:     win32
+[debug] [2024-04-07T00:55:45.324Z] : Node Version: v20.10.0
+[debug] [2024-04-07T00:55:45.324Z] : Time:         Sun Apr 07 2024 06:25:45 GMT+0530 (India Standard Time)
+[debug] [2024-04-07T00:55:45.325Z] : ----------------------------------------------------------------------
+[debug] [2024-04-07T00:55:45.325Z] : 
+[debug] [2024-04-07T00:55:47.355Z] : > authorizing via signed-in user option
+[debug] [2024-04-07T00:55:47.356Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.webapp.ALL","ZohoCatalyst.pdfshot.execute"]
+[debug] [2024-04-07T00:55:47.370Z] : > refreshing access token <
+[debug] [2024-04-07T00:55:47.371Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.in/oauth/v2/token 
+<request body omitted>
+
+[debug] [2024-04-07T00:55:47.918Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Sun, 07 Apr 2024 00:55:47 GMT","content-type":"application/json;charset=UTF-8","content-length":"1913","connection":"keep-alive","set-cookie":["6e73717622=94da0c17b67b4320ada519c299270f95; Path=/","iamcsr=bebe85ed-663c-4bf4-9065-3d3f330ca177;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=bebe85ed-663c-4bf4-9065-3d3f330ca177;path=/;SameSite=Strict;Secure;priority=high"],"cache-control":"no-store","x-content-type-options":"nosniff","content-security-policy":"script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.zohocdn.com https://*.zoho.com https://*.zoho.eu https://*.zoho.com.cn https://*.zoho.com.au https://*.zoho.jp https://*.zoho.uk https://*.zoho.sa https://*.zohocloud.ca; report-uri https://logsapi.zoho.in/csplog?service=accounts;","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-04-07T00:55:47.929Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.in/baas/v1/project/5907000000013017 
+
+[debug] [2024-04-07T00:55:48.545Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Sun, 07 Apr 2024 00:55:47 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","set-cookie":["3a750b85f1=99131cfabfda186b4fe68a16fb8fedd6; Path=/","ZD_CSRF_TOKEN=3c98f313-a327-47ba-a314-75fe25e020c8;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=3c98f313-a327-47ba-a314-75fe25e020c8;path=/;SameSite=Strict;Secure;priority=high"],"x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-04-07T00:55:48.548Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.in/baas/v1/project/5907000000013017/environment 
+
+[debug] [2024-04-07T00:55:48.651Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Sun, 07 Apr 2024 00:55:47 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","set-cookie":["3a750b85f1=7c58023b2365c117e2ff9b6feb09efa2; Path=/","ZD_CSRF_TOKEN=844b2e1d-b63b-407d-9479-8d291bce2370;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=844b2e1d-b63b-407d-9479-8d291bce2370;path=/;SameSite=Strict;Secure;priority=high"],"x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-04-07T00:55:49.261Z] : Build folder already exists, starting cleanup
+[debug] [2024-04-07T00:55:49.348Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.in/baas/v1/project/5907000000013017/function 
+Query params: {"type":"basicio,event,cron,applogic,integration,browser_logic"}
+
+[debug] [2024-04-07T00:55:49.380Z] : http port : '3000' is not available. Hence port '3001' will be used instead.
+[debug] [2024-04-07T00:55:49.517Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Sun, 07 Apr 2024 00:55:48 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","set-cookie":["3a750b85f1=99131cfabfda186b4fe68a16fb8fedd6; Path=/","ZD_CSRF_TOKEN=604587cb-615a-408d-a120-3dbcad95ef38;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=604587cb-615a-408d-a120-3dbcad95ef38;path=/;SameSite=Strict;Secure;priority=high"],"x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-04-07T00:55:49.526Z] : unknown eol undefined hence skipping check
+[info] [2024-04-07T00:55:50.088Z] : 
+[info] [2024-04-07T00:55:50.089Z] : Executing AppSail [PRESERVE] [AppSail] script in C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\appsail-nodejs
+[debug] [2024-04-07T00:55:50.089Z] : Executing command > npm install
+[info] [2024-04-07T00:55:50.089Z] : > npm install
+[info] [2024-04-07T00:55:52.833Z] : 
+[info] [2024-04-07T00:55:52.834Z] :  >>>>>>>>>>>>> AdvancedIO <<<<<<<<<<<< 
+[info] [2024-04-07T00:55:52.835Z] : i try_function: http://localhost:3000/server/try_function/
+[info] [2024-04-07T00:55:52.836Z] : 
+[info] [2024-04-07T00:55:52.836Z] : 
+[info] [2024-04-07T00:55:52.836Z] :  >>>>>>>>>>>>>> AppSail <<<<<<<<<<<<<< 
+[info] [2024-04-07T00:55:52.837Z] : i AppSail: http://localhost:3001
+[info] [2024-04-07T00:55:52.837Z] : 
+[info] [2024-04-07T00:55:52.837Z] : 
+[info] [2024-04-07T00:55:52.837Z] :  >>>>>>>>>>>>> Web Client <<<<<<<<<<<<
+[info] [2024-04-07T00:55:52.838Z] : i client[sampleApp]: http://localhost:3000/app/
+[info] [2024-04-07T00:55:52.838Z] : 
+[info] [2024-04-07T01:13:50.180Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-07T01:13:50.644Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-07T01:13:50.644Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-07T01:13:54.251Z] : Change(s) is detected in index.html of the Web-Client.
+[error] [2024-04-07T01:14:15.086Z] : × [404 - Resource not found]: /server/try_function/add
+[info] [2024-04-07T01:14:15.087Z] : 
+[debug] [2024-04-07T01:14:15.088Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\add'
+[info] [2024-04-07T01:14:51.736Z] : Change(s) is detected in index.html of the Web-Client.
+[error] [2024-04-07T01:15:05.658Z] : × [404 - Resource not found]: /server/try_function/add
+[info] [2024-04-07T01:15:05.659Z] : 
+[debug] [2024-04-07T01:15:05.659Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\add'
+[info] [2024-04-07T01:15:35.159Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-07T01:15:35.549Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-07T01:15:35.550Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-07T01:16:41.211Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-07T01:16:59.096Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T01:21:11.400Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T01:21:21.557Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T01:21:30.003Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T01:21:40.784Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-07T01:22:17.262Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T01:24:36.762Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T01:27:37.922Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T01:45:13.200Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T01:45:15.744Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-07T01:45:16.270Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-07T01:45:16.271Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-07T01:45:18.369Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-07T01:47:09.202Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-07T01:47:09.637Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-07T01:47:09.638Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-07T01:47:12.885Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T01:47:58.784Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-07T01:47:59.091Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-07T01:47:59.092Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-07T01:48:47.822Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T01:49:33.024Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-07T01:49:33.497Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-07T01:49:33.497Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-07T01:49:59.312Z] : Change(s) is detected in main.js of the Web-Client.
+[error] [2024-04-07T01:50:04.751Z] : × [404 - Resource not found]: /server/try_function/add
+[info] [2024-04-07T01:50:04.752Z] : 
+[debug] [2024-04-07T01:50:04.752Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\add'
+[info] [2024-04-07T01:51:10.040Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T01:51:48.691Z] : Change(s) is detected in main.js of the Web-Client.
+[error] [2024-04-07T01:51:54.633Z] : × [404 - Resource not found]: /server/try_function/add
+[info] [2024-04-07T01:51:54.634Z] : 
+[debug] [2024-04-07T01:51:54.634Z] : Error: ENOENT: no such file or directory, stat 'C:\Users\user\ZohoCatalyst_crm8\Try\Zc_Project_Try\client\server\try_function\add'
+[info] [2024-04-07T01:53:14.828Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T01:54:31.151Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T02:07:22.640Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-07T02:07:23.031Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-07T02:07:23.032Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[debug] [2024-04-07T02:07:29.100Z] : > refreshing access token <
+[debug] [2024-04-07T02:07:29.104Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.in/oauth/v2/token 
+<request body omitted>
+
+[debug] [2024-04-07T02:07:29.524Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Sun, 07 Apr 2024 02:07:28 GMT","content-type":"application/json;charset=UTF-8","content-length":"1913","connection":"keep-alive","set-cookie":["6e73717622=4440853cd702ab2a51402c119608ee85; Path=/","iamcsr=d96bd9cf-66b5-429d-8a2a-f6bfb4df4952;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=d96bd9cf-66b5-429d-8a2a-f6bfb4df4952;path=/;SameSite=Strict;Secure;priority=high"],"cache-control":"no-store","x-content-type-options":"nosniff","content-security-policy":"script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.zohocdn.com https://*.zoho.com https://*.zoho.eu https://*.zoho.com.cn https://*.zoho.com.au https://*.zoho.jp https://*.zoho.uk https://*.zoho.sa https://*.zohocloud.ca; report-uri https://logsapi.zoho.in/csplog?service=accounts;","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=63072000"}
+
+[info] [2024-04-07T02:09:05.538Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T02:10:29.366Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-07T02:10:29.793Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-07T02:10:29.794Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-07T02:10:57.547Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-07T02:10:57.939Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-07T02:10:57.939Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-07T02:11:17.604Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T02:11:55.897Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-07T02:11:56.388Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-07T02:11:56.389Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-07T02:39:53.007Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-07T02:39:53.273Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-07T02:39:53.274Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-07T02:40:47.929Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T02:40:59.060Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T02:41:27.277Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-07T02:41:27.563Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-07T02:41:27.564Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-07T03:10:31.097Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-07T03:10:31.607Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-07T03:10:31.608Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-07T03:10:49.512Z] : Change(s) is detected in main.js of the Web-Client.
+[debug] [2024-04-07T03:10:59.849Z] : > refreshing access token <
+[debug] [2024-04-07T03:10:59.852Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.in/oauth/v2/token 
+<request body omitted>
+
+[debug] [2024-04-07T03:11:00.367Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Sun, 07 Apr 2024 03:10:59 GMT","content-type":"application/json;charset=UTF-8","content-length":"1913","connection":"keep-alive","set-cookie":["6e73717622=3bcf233c3836eb7934b6f3edc257f951; Path=/","iamcsr=757f3156-c6af-4dae-9764-6166d3b2b26a;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=757f3156-c6af-4dae-9764-6166d3b2b26a;path=/;SameSite=Strict;Secure;priority=high"],"cache-control":"no-store","x-content-type-options":"nosniff","content-security-policy":"script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.zohocdn.com https://*.zoho.com https://*.zoho.eu https://*.zoho.com.cn https://*.zoho.com.au https://*.zoho.jp https://*.zoho.uk https://*.zoho.sa https://*.zohocloud.ca; report-uri https://logsapi.zoho.in/csplog?service=accounts;","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=63072000"}
+
+[info] [2024-04-07T03:11:45.598Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-07T03:11:46.119Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-07T03:11:46.120Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-07T03:11:53.483Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T03:12:17.107Z] : 
+change of index.js in try_function detected. Preparing your function, please wait...
+[info] [2024-04-07T03:12:17.469Z] : i AdvancedIO[try_function]: ready!
+[info] [2024-04-07T03:12:17.469Z] : i AdvancedIO[try_function]: http://localhost:3000/server/try_function/
+[info] [2024-04-07T03:12:25.736Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T03:28:41.910Z] : Change(s) is detected in main.js of the Web-Client.
+[info] [2024-04-07T03:28:53.272Z] : Change(s) is detected in index.html of the Web-Client.
+[info] [2024-04-07T03:29:21.279Z] : Change(s) is detected in index.html of the Web-Client.
